@@ -1,0 +1,127 @@
+name: bugdad
+description: A new Flutter project.
+
+version: 0.0.1
+
+
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^0.11.0+2
+  firebase_database: 
+  firebase_storage: 
+  google_sign_in: ^4.0.1+1
+  firebase_auth: 
+  image: 
+  path_provider: 
+  cupertino_icons: 
+  uuid: 
+  timeago:
+  image_picker: 
+  animator: 
+  flutter_svg: 
+  cached_network_image: 
+  geolocator: 
+  firebase_messaging:
+  font_awesome_flutter: 
+  animated_text_kit: 
+  firebase_core: 
+  dynamic_theme: 
+  provider: 
+  carousel_pro: 
+  flutter_swiper: 
+  curved_navigation_bar: 
+  states_rebuilder:
+  pinch_zoom_image: ^0.2.5 
+
+   
+ 
+  
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+  assets:
+        - assets/images/google_signin_button.png
+        - assets/images/search.svg
+        - assets/images/activity_feed.svg
+        - assets/images/showone.png
+        - assets/images/showtwo.png
+        - assets/images/artwork.png
+        - assets/images/bughunter.png
+        - assets/images/contentedit.png
+        - assets/images/Digiart.png
+        - assets/images/Designers.png
+        - assets/images/programmer.png
+        - assets/images/writer.png
+        - assets/images/debug.png
+        - assets/images/lessmain.png
+        - assets/images/like.png
+        - assets/images/program.png
+        - assets/images/word.png
+        - assets/images/comments.png
+        - assets/images/upload.svg
+        - assets/images/newcontent.svg
+        - assets/images/fullanim.gif
+        - assets/images/bugdadnew.gif
+
+  uses-material-design: true
+
+  fonts:
+     - family: Adventure
+       fonts:
+         - asset: assets/fonts/Adventure.otf
+         - weight: 700
+     - family: ITCKRIST
+       fonts:
+         - asset: assets/fonts/ITCKRIST.ttf
+         - weight: 700
+     - family: Nightmarecodehack
+       fonts:
+         - asset: assets/fonts/Nightmarecodehack.otf
+         - weight: 700
+
+
+
+ 
+     
+         
+      
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
