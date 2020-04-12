@@ -31,7 +31,7 @@
    </p>
    <hr/>
    <h2>D e p e n d e n c i e s :</h2>
-   ✨ [Flutter](https://flutter.dev/)
+   ✨ [Flutter](https://flutter.dev/) <br/>
    ✨ [Firestore](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore)
    ✨ [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker)
    ✨ [Google Sign In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in)
