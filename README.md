@@ -8,6 +8,7 @@
 <h3>F r a m e w o r k :</h3>
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png"  width="150" alt = "Flutter">
 <p>Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.</p>
+   <hr/>
 <h3>Features :</h3>
   <p>⭐ Custom photo feed based on who you follow (using firebase cloud functions).</p>
   <p>⭐ Post photo posts from camera or gallery.</p>
