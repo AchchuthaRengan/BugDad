@@ -21,5 +21,8 @@
   <p>⭐ Add your own bio.</p>
   <p>⭐ Activity Feed showing recent likes / comments of your posts + new followers.</p>
   <hr/>
+   <p>
    <h3>Screens: </h3>
+  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="150" alt = "Intro">
+   </p>
    
