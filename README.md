@@ -31,6 +31,8 @@
    </p>
    
  <h2>D e p e n d e n c i e s :</h2>
+ 
+ 
    ✨ [Flutter](https://flutter.dev/) <br/>
    ✨ [Firestore](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore) <br/>
    ✨ [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) <br/>
