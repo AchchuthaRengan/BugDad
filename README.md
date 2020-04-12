@@ -1,5 +1,5 @@
 # BugDad - A New Social Network For Coders.
-<body style="background-color:grey;">
+<img src="https://github.com/AchchuthaRengan/BugDad/blob/master/BugDad.png" alt="Intro"      width="250">
 <img src = "https://github.com/AchchuthaRengan/BugDad/blob/master/one.png" width = "150">
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/bugdadnew.gif" align = "right" width="250" alt = "Dart">
 <h2>A working project written in Flutter using Firestore.</h2>
@@ -51,10 +51,6 @@
    ⭐ [Dart Async](https://github.com/dart-lang/async) <br/>
    ⭐ [Flutter Shared Preferences]() <br/>
    ⭐ [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <br/>
-   
-   
-
-<img src="https://github.com/AchchuthaRengan/BugDad/blob/master/BugDad.png" alt="Intro"      width="250">
 
 
 
@@ -91,13 +87,13 @@ _You may need to create the neccessary index by running `firebase functions:log`
 
 _**If you are getting no errors, but an empty feed** You must post photos or follow users with posts as the getFeed function only returns your own posts & posts from people you follow._
 
-4. Enable the Firebase Database
+#### 4. Enable the Firebase Database
 * Go to the Firebase Console
 * Click "Database" in the left-hand menu
 * Click the Cloudstore "Create Database" button
 * Select "Start in test mode" and "Enable"
 
-5. (skip if not running on Android)
+#### 5. (skip if not running on Android)
 
 * Create an app within your Firebase instance for Android, with package name com.yourcompany.news
 * Run the following command to get your SHA-1 key:
@@ -111,7 +107,7 @@ keytool -exportcert -list -v \
 * Follow instructions to download google-services.json
 * place `google-services.json` into `/android/app/`.
 
-6. (skip if not running on iOS)
+#### 6. (skip if not running on iOS)
 
 * Create an app within your Firebase instance for iOS, with your app package name
 * Follow instructions to download GoogleService-Info.plist
@@ -119,9 +115,9 @@ keytool -exportcert -list -v \
 * Open /ios/Runner/Info.plist in a text editor. Locate the CFBundleURLSchemes key. The second item in the array value of this key is specific to the Firebase instance. Replace it with the value for REVERSED_CLIENT_ID from GoogleService-Info.plist
 
 Double check install instructions for both
-   - Google Auth Plugin
+  ## - Google Auth Plugin
      - https://pub.dartlang.org/packages/firebase_auth
-   - Firestore Plugin
+ ##  - Firestore Plugin
      -  https://pub.dartlang.org/packages/cloud_firestore
    
    
