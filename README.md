@@ -1,6 +1,6 @@
 # BugDad - A New Social Network For Coders.
 <img src = "https://github.com/AchchuthaRengan/BugDad/blob/master/one.png" width = "150">
-<img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/bugdadnew.gif" align = "right" width="150" alt = "Dart">
+<img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/bugdadnew.gif" align = "center" width="250" alt = "Dart">
 <h2>A working project written in Flutter using Firestore.<h2>
 <h3>L a n g u a g e :</h3>
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/dart.png" align = "center" width="150" alt = "Dart">
