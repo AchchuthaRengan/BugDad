@@ -30,22 +30,24 @@
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" alt="Edit" width="250">
    </p>
    
- <h2>D e p e n d e n c i e s :</h2>
+ # D e p e n d e n c i e s :
  
  
-   ✨ [Flutter](https://flutter.dev/) <br/>
-   ✨ [Firestore](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore) <br/>
-   ✨ [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) <br/>
-   ✨ [Google Sign In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) <br/>
-   ✨ [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) <br/>
-   ✨ [UUID](https://github.com/Daegalus/dart-uuid) <br/>
-   ✨ [Dart Image](https://github.com/brendan-duncan/image) <br/>
-   ✨ [Path Provider](https://github.com/flutter/plugins/tree/master/packages/path_provider) <br/>
-   ✨ [Font Awesome](https://github.com/brianegan/font_awesome_flutter) <br/>
-   ✨ [Dart HTTP](https://github.com/dart-lang/http) <br/>
-   ✨ [Dart Async](https://github.com/dart-lang/async) <br/>
-   ✨ [Flutter Shared Preferences]() <br/>
-   ✨ [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <br/>
+   ⭐ [Flutter](https://flutter.dev/) <br/>
+   ⭐ [Firestore](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore) <br/>
+   ⭐ [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) <br/>
+   ⭐ [Google Sign In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) <br/>
+   ⭐ [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) <br/>
+   ⭐ [UUID](https://github.com/Daegalus/dart-uuid) <br/>
+   ⭐ [Dart Image](https://github.com/brendan-duncan/image) <br/>
+   ⭐ [Path Provider](https://github.com/flutter/plugins/tree/master/packages/path_provider) <br/>
+   ⭐ [Font Awesome](https://github.com/brianegan/font_awesome_flutter) <br/>
+   ⭐ [Dart HTTP](https://github.com/dart-lang/http) <br/>
+   ⭐ [Dart Async](https://github.com/dart-lang/async) <br/>
+   ⭐ [Flutter Shared Preferences]() <br/>
+   ⭐ [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <br/>
+   
+ 
    
 
    
