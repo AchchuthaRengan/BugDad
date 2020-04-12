@@ -1,3 +1,3 @@
 # BugDad
 A New Social Network For Coders.
-<img src="https://ibb.co/DKPy42Q" align="center" width="850">
+<img src="https://imgur.com/a/gTrmtSl" align="center" width="850">
