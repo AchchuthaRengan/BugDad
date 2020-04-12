@@ -1,6 +1,6 @@
 # BugDad 
 <img src = "https://github.com/AchchuthaRengan/BugDad/blob/master/one.png" width = "150">
-## A New Social Network For Coders.
+<h1>A New Social Network For Coders.<h1>
 <h3>Language :</h3>
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/dart.png" align = "center" width="150" alt = "Dart">
 <p>Dart is a client-optimized language for fast apps on any platform.</p>
