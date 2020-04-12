@@ -1,3 +1,3 @@
 # BugDad
 A New Social Network For Coders.
-[<img src="https://flutter.dev/assets/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" align="center" width="850">](https://flutter.dev/)
+[<img src="https://drive.google.com/open?id=1kt886O8W9_i6bfvGQSXW8omMuWOnIP0T" align="center" width="850">](https://flutter.dev/)
