@@ -23,15 +23,15 @@
   <hr/>
    <p>
    <h3>S c r e e n s: </h3>
-   <h2>💥 Splash Screen</h2>
+   
   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif" align="left" width="250" alt = "Intro">
-   <h2>💥 Sign Up</h2>
+   <h5>💥 Sign Up</h5>
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/SignUp.gif" align="center"  width="250" alt = "SignUp">
-   <h2>💥 Welcome</h2>
+   <h5>💥 Welcome</h5>
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif" align="right"  width="250" alt = "Welcome">
-   <h2>💥 Home</h2>
+   <h5>💥 Home</h5>
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" align="center"  width="250" alt = "Home">
-    <h2>💥 Edit Profile</h2>
+    <h5>💥 Edit Profile</h5>
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" align="right"  width="250" alt = "EditProfile">
    </p>
    
