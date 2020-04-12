@@ -23,7 +23,15 @@
   <hr/>
    <p>
    <h3>S c r e e n s: </h3>
-  ## Splash Screen
+   <h2>Splash Screen</h2>
   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="250" alt = "Intro">
+   <h2>Sign Up</h2>
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/SignUp.gif"  width="250" alt = "SignUp">
+   <h2>Welcome Screen</h2>
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif"  width="250" alt = "Welcome">
+   <h2>Home</h2>
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif"  width="250" alt = "Home">
+   <h2>Edit Profile</h2>
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif"  width="250" alt = "EditProfile">
    </p>
    
