@@ -23,6 +23,7 @@
   <hr/>
    <p>
    <h3>Screens: </h3>
-  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="250" alt = "Intro" "Intro Screen">
+   <h4>Splash Screen</h4>
+  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="250" alt = "Intro">
    </p>
    
