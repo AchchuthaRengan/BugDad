@@ -53,7 +53,10 @@
    ⭐ [Cached Network Image](https://github.com/renefloor/flutter_cached_network_image) <br/>
    
    
+
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/BugDad.png" alt="Intro"      width="250">
+
+
 
 ## Let's Get Started..!.
 
@@ -121,6 +124,14 @@ Double check install instructions for both
    - Firestore Plugin
      -  https://pub.dartlang.org/packages/cloud_firestore
    
+   
+ ## Available on
+ 
+ <p align="left">
+<a href="https://play.google.com/store/apps/details?id=com.omegax.bugdad&hl=en">
+    <img alt="Get it on Google Play"
+        height="90"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
  
    
 
