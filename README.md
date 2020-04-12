@@ -22,16 +22,10 @@
   <p>⭐ Activity Feed showing recent likes / comments of your posts + new followers.</p>
   <hr/>
    <p>
-   <h3>S c r e e n s: </h3>
-   
-  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif" align="left" width="250" alt = "Intro">
-   
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/SignUp.gif" align="center"  width="250" alt = "SignUp">
-  
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif" align="center" width="250" alt = "Welcome">
-   
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" align="right"  width="250" alt = "Home">
-    
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" align="center" width="250" alt = "EditProfile">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif" alt="Intro"      width="250">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/SignUp.gif" alt="SignUp"    width="250">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif" alt="Welcome"  width="250">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" alt="Home"        width="250">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" alt="Edit" width="250">
    </p>
    
