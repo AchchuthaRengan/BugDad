@@ -30,7 +30,7 @@
   
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif" align="center" width="250" alt = "Welcome">
    
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" align="left"  width="250" alt = "Home">
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" align="center"  width="250" alt = "Home">
     
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" align="center" width="250" alt = "EditProfile">
    </p>
