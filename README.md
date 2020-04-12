@@ -1,5 +1,5 @@
 # BugDad - A New Social Network For Coders.
-<img src="https://github.com/AchchuthaRengan/BugDad/blob/master/BugDad.png" alt="Intro"      width="250">
+
 <img src = "https://github.com/AchchuthaRengan/BugDad/blob/master/one.png" width = "150">
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/bugdadnew.gif" align = "right" width="250" alt = "Dart">
 <h2>A working project written in Flutter using Firestore.</h2>
@@ -16,6 +16,7 @@
   <p>⭐ Custom photo feed based on who you follow (using firebase cloud functions).</p>
   <p>⭐ Post photo posts from camera or gallery.</p>
   <p>⭐ Like posts.</p>
+  <p>⭐ Share location on posts.</p>
   <p>⭐ Comment on posts.</p><p>* View all comments on a post.</p>
   <p>⭐ Search for users.</p>
   <p>⭐ Profile Pages.</p>
