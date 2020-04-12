@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "221553326888",
+    "firebase_url": "https://bugdad-2f092.firebaseio.com",
+    "project_id": "bugdad-2f092",
+    "storage_bucket": "bugdad-2f092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221553326888:android:a16e7e639f609b02406e1d",
+        "android_client_info": {
+          "package_name": "com.omegax.bugdad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221553326888-qn2ua27qp817u7ufb56lkm23mhpo9u1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omegax.bugdad",
+            "certificate_hash": "a27420ed73983ec9cfb9f66c5a3d83f6badad0c3"
+          }
+        },
+        {
+          "client_id": "221553326888-oohkhh1v96lj229kthrdv5mk766bj9o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omegax.bugdad",
+            "certificate_hash": "a842ad0388b321764240687a0f09df7b44e02bba"
+          }
+        },
+        {
+          "client_id": "221553326888-rsmsm5pjh0e4lj7lq4h7f866qumhv4sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq4Dyz7R4BjxoddnlIwX4p3lwNsKjwRcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221553326888-rsmsm5pjh0e4lj7lq4h7f866qumhv4sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
