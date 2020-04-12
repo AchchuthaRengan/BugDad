@@ -25,13 +25,13 @@
    <h3>S c r e e n s: </h3>
    
   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif" align="left" width="250" alt = "Intro">
-   <h5>💥 Sign Up</h5>
+   
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/SignUp.gif" align="center"  width="250" alt = "SignUp">
-   <h5>💥 Welcome</h5>
+  
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Welcome.gif" align="right"  width="250" alt = "Welcome">
-   <h5>💥 Home</h5>
+   
    <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Home.gif" align="center"  width="250" alt = "Home">
-    <h5>💥 Edit Profile</h5>
-   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" align="right"  width="250" alt = "EditProfile">
+    
+   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Editprofile.gif" align="cente"  width="250" alt = "EditProfile">
    </p>
    
