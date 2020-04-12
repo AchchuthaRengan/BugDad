@@ -1,5 +1,5 @@
 # BugDad - A New Social Network For Coders.
-body {background-color: coral;}
+<body style="background-color:grey;">
 <img src = "https://github.com/AchchuthaRengan/BugDad/blob/master/one.png" width = "150">
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/bugdadnew.gif" align = "right" width="250" alt = "Dart">
 <h2>A working project written in Flutter using Firestore.</h2>
