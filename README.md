@@ -55,7 +55,7 @@
 
 
 
-## Let's Get Started..!.
+## Let's Get Started..!
 
 ## F L U T T E R
 
@@ -68,7 +68,7 @@ $ git clone https://github.com/AchchuthaRengan/BugDad.git
 $ cd BugDad/
 ```
 
-#### 3. F I R E B A S E 
+## 3. F I R E B A S E 
 
 1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
 2. Once your Firebase instance is created, you'll need to enable Google authentication.
