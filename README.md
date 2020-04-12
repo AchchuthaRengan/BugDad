@@ -23,6 +23,6 @@
   <hr/>
    <p>
    <h3>Screens: </h3>
-  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="150" alt = "Intro">
+  <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="350" alt = "Intro">
    </p>
    
