@@ -10,7 +10,7 @@
 <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png"  width="150" alt = "Flutter">
 <p>Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.</p>
    <hr/>
-<h3>Features :</h3>
+<h3>F e a t u r e s :</h3>
   <p>⭐ Custom photo feed based on who you follow (using firebase cloud functions).</p>
   <p>⭐ Post photo posts from camera or gallery.</p>
   <p>⭐ Like posts.</p>
@@ -22,8 +22,8 @@
   <p>⭐ Activity Feed showing recent likes / comments of your posts + new followers.</p>
   <hr/>
    <p>
-   <h3>Screens: </h3>
-   <h4>Splash Screen</h4>
+   <h3>S c r e e n s: </h3>
+  ## Splash Screen
   <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/GIFS/Intro.gif"  width="250" alt = "Intro">
    </p>
    
