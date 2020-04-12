@@ -122,7 +122,7 @@ Double check install instructions for both
      -  https://pub.dartlang.org/packages/cloud_firestore
    
    
- ## Available on
+ ##### Available on
  
  <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.omegax.bugdad&hl=en">
