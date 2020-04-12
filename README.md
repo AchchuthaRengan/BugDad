@@ -19,3 +19,6 @@
   <p>⭐ Follow / Unfollow Users.</p>
   <p>⭐ Add your own bio.</p>
   <p>⭐ Activity Feed showing recent likes / comments of your posts + new followers.</p>
+  <hr/>
+   <h3>Screens: </h3>
+   
