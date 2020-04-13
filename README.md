@@ -120,6 +120,21 @@ Double check install instructions for both
      - https://pub.dartlang.org/packages/firebase_auth
  ##  - Firestore Plugin
      -  https://pub.dartlang.org/packages/cloud_firestore
+     
+ ## About 
+ <img src="https://github.com/AchchuthaRengan/BugDad/blob/master/BugDad.png" alt="Intro"      width="250">
+ 
+ <p>BugDad is a social media platform to share your digital artwork like application User Interface Design, Icons Design, Logo Design, Creative Vectors, etc. The users can also post their programming problems with description, So other users may help you to solve the issues. Formally, It is an app to share your design ideas and solve the coding problems too.
+</p>
+
+## F E A T U R E S :
+
+🔰 Elegant, easy to use interface.
+🔰Connect with your friends and Tech people.
+🔰 Share your artworks and achievements in the digital field.
+🔰 Follow your favorite artists and websites to get their latest posts.
+🔰 Programmers can help users by debugging other's code who posts it.
+🔰 Dark and Light theme is switchable at any time.
    
    
  ## Available On
