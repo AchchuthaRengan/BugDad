@@ -149,6 +149,10 @@ Double check install instructions for both
     <img alt="Get it on Google Play"
         height="90"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+   
+ ## L I C E N S E
+ 
+
  
    
 
