@@ -68,7 +68,9 @@ $ git clone https://github.com/AchchuthaRengan/BugDad.git
 $ cd BugDad/
 ```
 
-## F I R E B A S E 
+## F I R E S T O R E 
+
+<img src = "https://www.gstatic.com/devrel-devsite/prod/vafbb0b5d787a2bc7a3bcbfb9dfdb3baefdd01831979d5302dd65271466576cda/firebase/images/lockup.png">
 
 1. You'll need to create a Firebase instance. Follow the instructions at https://console.firebase.google.com.
 2. Once your Firebase instance is created, you'll need to enable Google authentication.
