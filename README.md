@@ -153,7 +153,7 @@ Double check install instructions for both
    
  
  
-## License
+## MIT License
 <p align="left">
 <a href="https://github.com/AchchuthaRengan/BugDad/blob/master/LICENSE.md">
     <img alt="License"
