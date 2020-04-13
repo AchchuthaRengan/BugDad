@@ -149,8 +149,19 @@ Double check install instructions for both
     <img alt="Get it on Google Play"
         height="90"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+   <hr/>
    
- ## L I C E N S E
+ 
+ 
+## License
+<p align="left">
+<a href="https://github.com/AchchuthaRengan/BugDad/blob/master/LICENSE.md">
+    <img alt="License"
+        height="90"
+        src="https://opensource.org/files/OSIApproved_1.png" />
+   <hr/>
+
+
  
 
  
