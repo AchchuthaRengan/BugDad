@@ -23,9 +23,9 @@
   <p>⭐ Follow / Unfollow Users.</p>
   <p>⭐ Add your own bio.</p>
   <p>⭐ Activity Feed showing recent likes / comments of your posts + new followers.</p>
-  <p>⭐ Notification for likes.</p>
+  <p>⭐ Notification when user creates a post, likes and comments on a post.</p>
   <p>⭐ Delete Posts.</p>
-  <p>⭐ Animations (heart when liking image).</p>
+  <p>⭐ Animations.</p>
    
  # S c r e e n s :
    <p>
