@@ -26,6 +26,7 @@
   <p>⭐ Notification when user creates a post, likes and comments on a post.</p>
   <p>⭐ Delete Posts.</p>
   <p>⭐ Animations.</p>
+  <p>⭐ Dynamic themes.</p>
    
  # S c r e e n s :
    <p>
